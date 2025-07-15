@@ -33,4 +33,4 @@ Developed a classification model to predict heart disease presence using patient
 
 - 📧 Email: fidesangelenemanalo@gmail.com  
 - 🔗 LinkedIn: (https://www.linkedin.com/in/fides-angelene-manalo-da/)
-- 📄 Resume: [Link to Resume or CV PDF]
+- 📄 Resume: (https://drive.google.com/drive/folders/1tOirK6wzQcgNX-1io-sr3b62uyJ99B7M?usp=sharing)
