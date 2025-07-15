@@ -1,5 +1,5 @@
-# FidesAngeleneManaloPortfolio
-Portfolio by Fides Manalo – showcasing real-world data analytics projects from internships and certifications.
+# AngeleneManaloPortfolio
+Portfolio by Angelene Manalo – showcasing real-world data analytics projects from internships and certifications.
 
 Welcome! I'm Gel, a Data Analyst with a background in finance and a passion for turning raw data into actionable insights. I specialize in analyzing, visualizing, and automating workflows using Python, SQL, Excel, and Power BI. This portfolio showcases a variety of projects I've worked on, from machine learning models to real-world data automation and interactive dashboards.
 
